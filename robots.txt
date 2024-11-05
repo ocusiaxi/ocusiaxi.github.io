@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocusiaxi.github.io/EUB/sitemap_index.txt
+Sitemap: https://ocusiaxi.github.io/IoH/sitemap_index.txt
+Sitemap: https://ocusiaxi.github.io/dwH/sitemap_index.txt
+Sitemap: https://ocusiaxi.github.io/vdH/sitemap_index.txt
